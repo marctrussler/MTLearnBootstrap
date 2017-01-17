@@ -1,0 +1,22 @@
+---
+title: "Learning  the Bootstrap"
+author: "Marc Trussler"
+date: "February 11, 2017"
+output: html_document
+---
+
+# Introduction to the bootstrap
+
+Bootstrap standard errors are simply a method for creating a standard error for things where it's not clear what the standard error is. It relies on re-sampling techniques to imagine what the sampling distribution of our sample statistic might be. 
+
+If 
+
+```{r, echo=F}
+
+
+
+
+```
+
+
+
